@@ -1,0 +1,8 @@
+ru\kubkred\config\Config.class
+ru\kubkred\App.class
+ru\kubkred\controllers\TaskRestController.class
+ru\kubkred\service\TaskService.class
+ru\kubkred\error\CodeError.class
+ru\kubkred\dao\entity\TaskInfo.class
+ru\kubkred\error\CustomException.class
+ru\kubkred\dao\repository\TasksRepository.class
